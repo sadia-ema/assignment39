@@ -70,7 +70,7 @@ background: #22C3A3;
 }
 /* banner */
 .banner{
-    background: url(../img/fanush.jpg) no-repeat top center;
+    background: url(./fanush.jpg) no-repeat top center;
     background-position: cover;
     background-size: cover;
     padding: 240px 0;
